@@ -61,4 +61,4 @@ Write a function, `text_numeral(num)` that takes in `num` (a positive integer be
     
 # Submission
 
-Before submission, run the tests on your final code.
+Before submitting your code, run the automated tests on your functions. In the shell, type `python test_main.py` and press enter to see the results of the testing.
